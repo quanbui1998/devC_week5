@@ -11,7 +11,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import ArticleItem from './ArticleItem';
 import { SearchBar } from 'react-native-elements';
 
-const API_KEY = '661637cda8044cebab098acd41d6dae4';
+const API_KEY = 'your_key';
 let currentPage = 1;
 let isOutOfArticle = false;
 
